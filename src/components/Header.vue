@@ -17,5 +17,3 @@ export default {
   name: "Header",
 };
 </script>
-
-<style scoped></style>
